@@ -68,6 +68,3 @@ Pypi : https://pypi.org/project/naver-sens/#description
 
 ## [PLC to UART](https://github.com/jst0951/plc_uart) (2022)
 한국공학대학교 2022 학부연구생 연구주제, with [(주)제스텍](https://zestech.co.kr/)
-
-## [우마무스메 리세마라 매크로](https://codedbyjst.tistory.com/category/%EB%A6%AC%EC%84%B8%EB%A7%88%EB%9D%BC%20%EB%A7%A4%ED%81%AC%EB%A1%9C/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80) (2022)
-게임 '우마무스메' 리세마라 매크로, Python Tkinter 기반 GUI 프로그래밍 및 안드로이드 자동 제어
