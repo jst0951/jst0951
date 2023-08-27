@@ -8,7 +8,7 @@
 
 # Project History
 
-## [돈복사닷컴](https://moneyctrlcv.com/) (2021~운영중)
+## [돈복사닷컴💵](https://moneyctrlcv.com/) (2021~운영중)
 
 ### Description
 상장 회사 재무재표 분석 서비스(+ 가상화폐 거래소 출금 수수료 일부 제공)
@@ -31,7 +31,7 @@ Organization : https://github.com/orgs/moneyctrlcv/repositories
 ### ETC
 [갈아엎어! django에서 react로](https://codedbyjst.tistory.com/3)
 
-## [오마카세](https://ohmycarset.com/) (2023)
+## [오마카세🍣](https://ohmycarset.com/) (2023)
 
 ### Description
 처음부터 끝까지, 당신의 차를 위한 오마카세
