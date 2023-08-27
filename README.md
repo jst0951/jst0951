@@ -26,7 +26,7 @@ Organization : https://github.com/orgs/moneyctrlcv/repositories
 ### Stack
 - Main : Django -> React + Express.js(2022에 stack 변경) + MySQL, Python(DB 갱신)
 
-- Infra : Frontend(Cloudflare Pages) + Backend(Docker(Compose) + Nginx)(Hosted on [Hetzner](https://www.hetzner.com/))
+- Infra : Frontend(Cloudflare Pages) + Backend(Docker(Compose) + Nginx)(Hosted on Hetzner)
 
 ### ETC
 [갈아엎어! django에서 react로](https://codedbyjst.tistory.com/3)
