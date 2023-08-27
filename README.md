@@ -58,11 +58,11 @@ Naver SENS(Simple & Easy Notification Service) python wrapper
 
 Pypi : https://pypi.org/project/naver-sens/#description
 
-## [CCTV 기반 인원 밀집도 측정 시스템] (2023)
+## CCTV 기반 인원 밀집도 측정 시스템 (2023)
   
 2023 한이음 공모전 출품작(현재 공모전 진행중), Backend(Fastapi) 개발
   
-## [시각장애인 주거 공간 내 안전 지킴이 스마트 시스템] (2023)
+## 시각장애인 주거 공간 내 안전 지킴이 스마트 시스템 (2023)
   
 2023 프로보노 공모전 출품작(현재 공모전 진행중), Backend(Spring Boot) 및 TTS(with GCP TTS) 개발
 
