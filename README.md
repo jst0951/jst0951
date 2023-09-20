@@ -41,6 +41,8 @@ Organization : https://github.com/orgs/moneyctrlcv/repositories
 ### Links
 Site : https://ohmycarset.com/
 
+Video : https://youtu.be/qtHIQaUM7ew?si=8Gk1TkD41eGZ0szc
+
 Organization(Fork) : https://github.com/jst0951/A3-OhMyCarSet
 
 ### Work
@@ -61,6 +63,8 @@ Pypi : https://pypi.org/project/naver-sens/#description
 ## [CCTV 기반 인원 밀집도 측정 시스템](https://cctvcrowding.codedbyjst.com/user/tukorea) (2023)
   
 2023 한이음 공모전 출품작(현재 공모전 진행중), Backend(Fastapi), Frontend(관리자페이지) 개발 및 인프라 설계/구축(AWS Lambda, RDS)
+
+Video : https://youtu.be/KNfUVuMlBHo
   
 ## 시각장애인 주거 공간 내 안전 지킴이 스마트 시스템 (2023)
   
