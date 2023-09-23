@@ -70,5 +70,7 @@ Video : https://youtu.be/KNfUVuMlBHo
   
 2023 프로보노 공모전 출품작(현재 공모전 진행중), Backend(Spring Boot) 및 TTS(with GCP TTS) 개발
 
+Video : https://youtu.be/9qFLG08f1Ac
+
 ## [PLC to UART](https://github.com/jst0951/plc_uart) (2022)
 한국공학대학교 2022 학부연구생 연구주제, with [(주)제스텍](https://zestech.co.kr/)
