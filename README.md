@@ -62,15 +62,24 @@ Pypi : https://pypi.org/project/naver-sens/#description
 
 ## [CCTV 기반 인원 밀집도 측정 시스템](https://cctvcrowding.codedbyjst.com/user/tukorea) (2023)
   
-2023 한이음 공모전 출품작(현재 공모전 진행중), Backend(Fastapi), Frontend(관리자페이지) 개발 및 인프라 설계/구축(AWS Lambda, RDS)
+- 2023 ICT멘토링 한이음부문 입선
+- 한국공학대학교 전자공학부 제23회 한국공학대전 학부장상
 
-Video : https://youtu.be/KNfUVuMlBHo
+Backend(Fastapi), Frontend(관리자페이지) 개발 및 인프라 설계/구축(AWS Lambda, RDS)
+
+- Video : https://youtu.be/KNfUVuMlBHo
+- Paper1 : https://drive.google.com/file/d/1LOzj3sC7U_bEh7fAqcN_xzEYX2LTlXxJ/view?usp=sharing
+- Paper2 : https://drive.google.com/file/d/1GMXIZbaGuiSy9FC3Qfe6SQmcSkV8hwCt/view?usp=sharing
   
 ## 시각장애인 주거 공간 내 안전 지킴이 스마트 시스템 (2023)
   
-2023 프로보노 공모전 출품작(현재 공모전 진행중), Backend(Spring Boot) 및 TTS(with GCP TTS) 개발
+- 2023 ICT멘토링 프로보노부문 입선
+- ICT멘토링 학술대회(ACK 2023) 우수상
 
-Video : https://youtu.be/9qFLG08f1Ac
+Backend(Spring Boot) 및 TTS(with GCP TTS) 개발
+
+- Video : https://youtu.be/9qFLG08f1Ac
+- Paper : https://drive.google.com/file/d/1YVj1LtyU-EGDCMK0lfWICnl2AWI4RZ6X/view?usp=sharing
 
 ## [PLC to UART](https://github.com/jst0951/plc_uart) (2022)
 한국공학대학교 2022 학부연구생 연구주제, with [(주)제스텍](https://zestech.co.kr/)
