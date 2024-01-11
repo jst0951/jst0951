@@ -54,6 +54,13 @@ Organization(Fork) : https://github.com/jst0951/A3-OhMyCarSet
 - Infra : Frontend(S3+Cloudfront), Backend(Custom VPC, EC2, Nginx + Docker(Compose)), Common(Github Action)
 
 # Other Projects...
+
+- - -
+
+<div align="center">Web Applications</div>
+
+- - -
+
 ## [naver-sens](https://github.com/jst0951/naver-sens) (2023)
   
 Naver SENS(Simple & Easy Notification Service) python wrapper
@@ -81,5 +88,19 @@ Backend(Spring Boot) 및 TTS(with GCP TTS) 개발
 - Video : https://youtu.be/9qFLG08f1Ac
 - Paper : https://drive.google.com/file/d/1YVj1LtyU-EGDCMK0lfWICnl2AWI4RZ6X/view?usp=sharing
 
+- - -
+
+<div align="center">Embedded Devlopments</div>
+
+- - -
+
 ## [PLC to UART](https://github.com/jst0951/plc_uart) (2022)
-한국공학대학교 2022 학부연구생 연구주제, with [(주)제스텍](https://zestech.co.kr/)
+- 한국공학대학교 2022 학부연구생 연구주제, with [(주)제스텍](https://zestech.co.kr/)
+
+## 스마트 주차장 (2023)
+- 한국공학대학교 임베디드프로세서2 과목 텀프로젝트
+
+MCU(Atmega128) 펌웨어 개발(H/W레벨 지원 TWI/SPI/UART 통신 활용), SBC용 관제 프로그램(파이썬 기반) 개발
+
+- Video : https://www.youtube.com/watch?v=l6LoxaqvUT0
+- Report : https://drive.google.com/file/d/11Lj4ostDBjcRXwMo9AFmuKUiI3lCfewC/view?usp=sharing
