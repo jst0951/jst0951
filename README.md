@@ -75,8 +75,8 @@ Pypi : https://pypi.org/project/naver-sens/#description
 Backend(Fastapi), Frontend(관리자페이지) 개발 및 인프라 설계/구축(AWS Lambda, RDS)
 
 - Video : https://youtu.be/KNfUVuMlBHo
-- Paper1 : https://drive.google.com/file/d/1LOzj3sC7U_bEh7fAqcN_xzEYX2LTlXxJ/view?usp=sharing
-- Paper2 : https://drive.google.com/file/d/1GMXIZbaGuiSy9FC3Qfe6SQmcSkV8hwCt/view?usp=sharing
+- Paper1 : https://nextcloud.codedbyjst.com/s/kyk7MeQCM6prwpK
+- Paper2 : https://nextcloud.codedbyjst.com/s/LyMEwRHsGrPBiYw
   
 ## 시각장애인 주거 공간 내 안전 지킴이 스마트 시스템 (2023)
   
@@ -86,7 +86,7 @@ Backend(Fastapi), Frontend(관리자페이지) 개발 및 인프라 설계/구�
 Backend(Spring Boot) 및 TTS(with GCP TTS) 개발
 
 - Video : https://youtu.be/9qFLG08f1Ac
-- Paper : https://drive.google.com/file/d/1YVj1LtyU-EGDCMK0lfWICnl2AWI4RZ6X/view?usp=sharing
+- Paper : https://nextcloud.codedbyjst.com/s/t8gnLfaSgiWH6Nz
 
 - - -
 
@@ -103,4 +103,4 @@ Backend(Spring Boot) 및 TTS(with GCP TTS) 개발
 MCU(Atmega128) 펌웨어 개발(H/W레벨 지원 TWI/SPI/UART 통신 활용), SBC용 관제 프로그램(파이썬 기반) 개발
 
 - Video : https://www.youtube.com/watch?v=l6LoxaqvUT0
-- Report : https://drive.google.com/file/d/11Lj4ostDBjcRXwMo9AFmuKUiI3lCfewC/view?usp=sharing
+- Report : https://nextcloud.codedbyjst.com/s/CW3zzELJwScjHcw
